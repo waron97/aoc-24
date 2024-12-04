@@ -1,0 +1,2 @@
+﻿PartOne.Solve();
+PartTwo.Solve();
